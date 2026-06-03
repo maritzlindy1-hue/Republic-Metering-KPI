@@ -1,0 +1,21 @@
+REPUBLIC METERING KPI DASHBOARD - FINAL UPLOAD FILES
+
+Upload these files to the ROOT / MAIN folder of your GitHub repo:
+
+1. index.html  <-- this is the live dashboard file Render must find
+2. Job Card List 202606020900 3.xlsx
+3. Quote List Basic 202606021040 2.xlsx
+4. Pipeline Work 202606(1).xlsx
+
+IMPORTANT:
+- Do NOT upload the folder itself.
+- Open the ZIP and upload the files INSIDE it.
+- index.html must sit directly in the repo root, not inside a folder.
+- In Render, use Static Site.
+- Publish Directory must be: .
+- After upload, click Manual Deploy -> Clear build cache & deploy.
+
+Pipeline tab checked:
+- Pipeline Quotes: 12
+- Pipeline EX VAT: R 5,812,975.95
+- Pipeline Meters: 2,213
